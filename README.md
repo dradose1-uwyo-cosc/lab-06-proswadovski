@@ -1,8 +1,8 @@
-# [Name]
+# [Peyton Roswadovski]
 ## [Assignment #]
-## [Submission date: MM/DD/YY]
+## [Submission date: 10/20/24]
 ## Worked with/sources 
-* example
+* Got help from friend/student who previously took the class
 * example
 * example
 * example
